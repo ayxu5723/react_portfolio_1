@@ -25,10 +25,10 @@ const Projects = () => {
               Gratitude
             </span>
             <div className='pt-8 text-center'>
-              <a href="/">
+              <a href="https://murmuring-meadow-90754.herokuapp.com/">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-600 font-bold text-lg'>Demo</button>
               </a>
-              <a href="/">
+              <a href="https://github.com/ayxu5723/Gratitude-project">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-600 font-bold text-lg'>Repository</button>
               </a>
             </div>
@@ -43,10 +43,10 @@ const Projects = () => {
               Just Another Text Editor
             </span>
             <div className='pt-8 text-center'>
-              <a href="/">
+              <a href="https://text-editor-jate555.herokuapp.com/">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-600 font-bold text-lg'>Demo</button>
               </a>
-              <a href="/">
+              <a href="https://github.com/ayxu5723/Text-Editor">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-600 font-bold text-lg'>Repository</button>
               </a>
             </div>
@@ -61,10 +61,10 @@ const Projects = () => {
               Notetaker
             </span>
             <div className='pt-8 text-center'>
-              <a href="/">
+              <a href="https://note-taker-ayx.herokuapp.com/">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-600 font-bold text-lg'>Demo</button>
               </a>
-              <a href="/">
+              <a href="https://github.com/ayxu5723/note_taker">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-600 font-bold text-lg'>Repository</button>
               </a>
             </div>
@@ -79,10 +79,10 @@ const Projects = () => {
               Password Generator
             </span>
             <div className='pt-8 text-center'>
-              <a href="/">
+              <a href="https://ayxu5723.github.io/Javascript-PW-Gen/">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-600 font-bold text-lg'>Demo</button>
               </a>
-              <a href="/">
+              <a href="https://github.com/ayxu5723/Javascript-PW-Gen">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-600 font-bold text-lg'>Repository</button>
               </a>
             </div>
@@ -97,10 +97,10 @@ const Projects = () => {
               Satisfy
             </span>
             <div className='pt-8 text-center'>
-              <a href="/">
+              <a href="https://ayxu5723.github.io/07-Project-Satisfy/">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-600 font-bold text-lg'>Demo</button>
               </a>
-              <a href="/">
+              <a href="https://github.com/ayxu5723/07-Project-Satisfy">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-600 font-bold text-lg'>Repository</button>
               </a>
             </div>
@@ -115,10 +115,10 @@ const Projects = () => {
               Tech Blog
             </span>
             <div className='pt-8 text-center'>
-              <a href="/">
+              <a href="https://boiling-basin-74246.herokuapp.com/">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-600 font-bold text-lg'>Demo</button>
               </a>
-              <a href="/">
+              <a href="https://github.com/ayxu5723/Tech-Blog">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-600 font-bold text-lg'>Repository</button>
               </a>
             </div>
