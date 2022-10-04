@@ -2,9 +2,9 @@ import React from 'react';
 
 const Contact = () => {
   return (
-  <div name="about" className="w-full h-screen"> 
+  <div name="about" className="w-full h-screen bg-zinc-500"> 
 
-    <div className="max-w-1000px mx-auto px-8 flex flex-col justify-center h-full"> 
+    <div className="mx-auto px-8 flex flex-col justify-center h-full"> 
   
       <h2>Hi, my name is Alex Xu</h2>
       <h3>I am a Full Stack Developer</h3>

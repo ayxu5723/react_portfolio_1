@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import Footer from './Footer';
-import Header from './Header';
 import Navigation from './Navigation';
 import About from './pages/About';
 import Contact from './pages/Contact';
@@ -28,7 +27,6 @@ const PageContainer = () => {
 
   return (
     <div>
-      <Header />
       <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
       <Footer />
