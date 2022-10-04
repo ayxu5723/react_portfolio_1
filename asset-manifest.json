@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_portfolio_1/static/css/main.413cbc22.css",
-    "main.js": "/react_portfolio_1/static/js/main.9cf4ffca.js",
+    "main.css": "/react_portfolio_1/static/css/main.ffec3571.css",
+    "main.js": "/react_portfolio_1/static/js/main.3bddf3fe.js",
     "static/media/Gratitude_home.png": "/react_portfolio_1/static/media/Gratitude_home.dd8c67923d7dd0a4b436.png",
     "static/media/notetaker.png": "/react_portfolio_1/static/media/notetaker.7852f5367aad182625ec.png",
     "static/media/techblog.png": "/react_portfolio_1/static/media/techblog.9d2940a7866e66793e96.png",
@@ -19,11 +19,11 @@
     "static/media/css.png": "/react_portfolio_1/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/react_portfolio_1/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react_portfolio_1/index.html",
-    "main.413cbc22.css.map": "/react_portfolio_1/static/css/main.413cbc22.css.map",
-    "main.9cf4ffca.js.map": "/react_portfolio_1/static/js/main.9cf4ffca.js.map"
+    "main.ffec3571.css.map": "/react_portfolio_1/static/css/main.ffec3571.css.map",
+    "main.3bddf3fe.js.map": "/react_portfolio_1/static/js/main.3bddf3fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.413cbc22.css",
-    "static/js/main.9cf4ffca.js"
+    "static/css/main.ffec3571.css",
+    "static/js/main.3bddf3fe.js"
   ]
 }
