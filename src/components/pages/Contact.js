@@ -2,13 +2,17 @@ import React from 'react';
 
 const Contact = () => {
   return (
-  <div name="about" className="w-full h-screen bg-zinc-500"> 
-
-    <div className="mx-auto px-8 flex flex-col justify-center h-full"> 
-  
-      <h2>Hi, my name is Alex Xu</h2>
-      <h3>I am a Full Stack Developer</h3>
-    </div>
+  <div className="w-full h-screen bg-zinc-500 flex justify-center items-center p-4"> 
+    <form action="" className='flex flex-col max-w-[600px] w-full'>
+      <div className='pb-8'>
+        <p className='text-4xl font-bold inline border-b-4 border-pink-600 text-gray-300'>Contact Me</p>
+      </div>
+      <input className='p-2 bg-[#ccd6f6]' type='text' placeholder='Name' name='name' />
+      <input className='my-4 p-2 bg-[#ccd6f6]' type='email' placeholder='Email' name='email' />
+      <textarea className='bg-[#ccd6f6] p-2' name='message' rows='10' placeholder='Message'></textarea>
+      <button className='text-white border-2 hover:bg-pink-600 hover:border-pink-600 px-4 py-3 my-8 mx-auto flex items-center'>Submit</button>
+    </form>
+    
 
   </div>
   )

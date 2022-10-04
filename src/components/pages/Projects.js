@@ -1,10 +1,10 @@
 import React from 'react';
-import Gratitude from "../../assets/images/Gratitude_home.png"
-import Jate from "../../assets/images/jate1.png"
-import Notetaker from "../../assets/images/notetaker.png"
-import Pwgen from "../../assets/images/Pwgen1.png"
-import Satisfy from "../../assets/images/satisfy.jpeg"
-import Techblog from "../../assets/images/techblog.png"
+import Gratitude from "../../assets/images/Gratitude_home.png";
+import Jate from "../../assets/images/jate1.png";
+import Notetaker from "../../assets/images/notetaker.png";
+import Pwgen from "../../assets/images/Pwgen1.png";
+import Satisfy from "../../assets/images/satisfy.jpeg";
+import Techblog from "../../assets/images/techblog.png";
 
 const Projects = () => {
   return (
