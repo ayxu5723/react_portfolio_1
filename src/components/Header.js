@@ -4,7 +4,7 @@ import Navigation from "./Navigation";
 const Header = () => {
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-slate-600 text-gray-100">
-      <h2>Alex Xu</h2>
+      <h2 className="text-2xl">Alex Xu</h2>
       <Navigation />
     </div>
   )
